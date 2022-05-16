@@ -50,5 +50,9 @@ I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDH
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidity" width="40" height="40"/>
 </div>
 
+
+
+---
+
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro77&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
