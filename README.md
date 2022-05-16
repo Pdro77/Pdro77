@@ -51,10 +51,4 @@ I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDH
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!---
-Pdro77/Pdro77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro77&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
