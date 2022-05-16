@@ -22,13 +22,13 @@
 ### :man_technologist: About Me :
 I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif" width="30"> from Guatemala.
 
-- :telescope: I’m studying an IoT Master at UPC BarcelonaTech.
+- :telescope: Studying an IoT Master at UPC BarcelonaTech.
 
-- :seedling: I'm currently learning frontend for building web applications and Web3 development.
+- :seedling: Currently learning frontend for building web applications and Web3 development.
 
 - :zap: In my free time, I collaborate on Mad Dog Car Club (NFTs collection).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pablo7/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pablo7/)
 
 
 
@@ -48,6 +48,9 @@ I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDH
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidity" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
+   <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple124/v4/97/81/2d/97812d68-3a5b-8429-30cb-b1d23df1eafd/source/512x512bb.jpg" title="VHDL" **alt="VHDL" width="40" height="40"/>
+   <img src="https://s.getwinpcsoft.com/icons/png/48/5315/5315737.png" title="MikroC" **alt="MikroC" width="40" height="40"/>
 </div>
 
 
