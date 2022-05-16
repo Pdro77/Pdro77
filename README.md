@@ -20,7 +20,6 @@
 ---
 
 ### :man_technologist: About Me :
-
 I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif" width="30"> from Guatemala.
 
 - :telescope: I’m studying an IoT Master at UPC BarcelonaTech.
@@ -30,6 +29,7 @@ I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDH
 - :zap: In my free time, I collaborate on Mad Dog Car Club (NFTs collection).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pablo7/)
+
 
 
 ---
