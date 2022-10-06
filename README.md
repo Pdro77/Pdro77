@@ -26,7 +26,7 @@ I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDH
 
 - :seedling: Currently learning frontend for building web applications and Web3 development.
 
-- :zap: In my free time, I collaborate on Mad Dog Car Club (NFTs collection).
+- :zap: In my free time, I collaborate with a NFTs collection project.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-pablo7/)
 
