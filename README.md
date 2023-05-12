@@ -22,7 +22,7 @@
 ### :man_technologist: About Me :
 I am a Electronics Engineer <img src="https://media.giphy.com/media/U22HxRRRXQDHrRwxz7/giphy.gif" width="30"> from Guatemala.
 
-- :telescope: Studying an IoT Master at UPC BarcelonaTech.
+- :telescope: IoT Master at UPC BarcelonaTech.
 
 - :seedling: Currently learning frontend for building web applications and Web3 development.
 
